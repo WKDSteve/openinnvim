@@ -21,7 +21,7 @@ Without configuring anything beyond the path to `nvim.exe`, which the installer 
 - **A slow open stays where it is.** Once an instance has the request, the file is
   never sent to a second one.
 - **Folders open in your tree** when the session has
-  [filetree.nvim](https://github.com/StefanBartl/filetree.nvim), as the working
+  [filetree.nvim](https://github.com/WKDSteve/filetree.nvim), as the working
   directory with a directory view otherwise.
 - **A fallback that does what you asked.** With no usable instance, Neovim starts with
   the file in WezTerm, Windows Terminal or a plain console, whichever exists first.

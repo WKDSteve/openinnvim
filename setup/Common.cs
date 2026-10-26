@@ -27,7 +27,7 @@ namespace OpenInNvimSetup
         public const string NewIcon = "new-session.ico";
         public const string CurrentIcon = "current-session.ico";
         public const string Publisher = "Stefan Bartl";
-        public const string Url = "https://github.com/StefanBartl/openinnvim";
+        public const string Url = "https://github.com/WKDSteve/openinnvim";
 
         // The files this installer writes next to each other (the config is handled separately).
         public static readonly string[] Files = new string[] { ExeName, UninstallerName, NewIcon, CurrentIcon };

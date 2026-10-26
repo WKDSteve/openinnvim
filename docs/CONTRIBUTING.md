@@ -6,7 +6,7 @@ Thanks for your interest in contributing to `openinnvim`.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/StefanBartl/openinnvim.git
+   git clone https://github.com/WKDSteve/openinnvim.git
    ```
 2. Register the menu *in place* while you work on it —
    `install.ps1 -InstallDir $PWD.Path`, see [installation.md](installation.md#in-place-development).

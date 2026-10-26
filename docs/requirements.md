@@ -22,7 +22,7 @@ directly by the launcher.
 
 - **WezTerm or Windows Terminal** for new instances. Without either, Neovim starts in a
   plain console window — [configuration.md](configuration.md#terminal).
-- [filetree.nvim](https://github.com/StefanBartl/filetree.nvim) — when the running
+- [filetree.nvim](https://github.com/WKDSteve/filetree.nvim) — when the running
   session has the `:Filetree` command, a folder is opened *in the tree*. Without
   it, a folder becomes the working directory with a directory view. See
   [FEATURES/FOLDERS.md](FEATURES/FOLDERS.md).

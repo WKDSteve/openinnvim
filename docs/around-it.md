@@ -1,6 +1,6 @@
 # Around it
 
-**[filetree.nvim](https://github.com/StefanBartl/filetree.nvim)** — the tree a folder
+**[filetree.nvim](https://github.com/WKDSteve/filetree.nvim)** — the tree a folder
 click opens in, when the running session has it. openinnvim only runs
 `:Filetree open <folder>`; everything about how the tree looks and behaves is
 filetree.nvim's.

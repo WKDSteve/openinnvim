@@ -37,7 +37,7 @@ system-wide and no administrator rights are needed — everything lives under `H
 `%LOCALAPPDATA%`.
 
 ```powershell
-git clone https://github.com/StefanBartl/openinnvim.git
+git clone https://github.com/WKDSteve/openinnvim.git
 cd openinnvim
 powershell -NoProfile -ExecutionPolicy Bypass -File .\install.ps1
 ```

@@ -5,7 +5,7 @@ After [installing](installation.md) (one script), with Neovim running, right-cli
 session you were working in — no new window.
 
 Right-click a folder instead and, if that session has
-[filetree.nvim](https://github.com/StefanBartl/filetree.nvim), its tree opens on the
+[filetree.nvim](https://github.com/WKDSteve/filetree.nvim), its tree opens on the
 folder; otherwise the folder becomes the working directory with a directory view.
 
 **Open with Neovim (new instance)** always starts a fresh Neovim in a new terminal.

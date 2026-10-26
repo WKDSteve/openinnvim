@@ -6,7 +6,7 @@ does depends on the target session and on `FOLDER_OPENS_IN`.
 ## `filetree` (default)
 
 If the instance has the `:Filetree` command
-([filetree.nvim](https://github.com/StefanBartl/filetree.nvim)), the launcher runs
+([filetree.nvim](https://github.com/WKDSteve/filetree.nvim)), the launcher runs
 
 ```lua
 vim.cmd({ cmd = 'Filetree', args = { 'open', dir } })

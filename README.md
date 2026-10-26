@@ -19,7 +19,7 @@
 ![Status](https://img.shields.io/badge/status-beta-orange)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
-> Folders open in the tree of [filetree.nvim](https://github.com/StefanBartl/filetree.nvim) when
+> Folders open in the tree of [filetree.nvim](https://github.com/WKDSteve/filetree.nvim) when
 > the running session has it — see [Around it](docs/around-it.md).
 
 Two Windows Explorer context-menu entries for Neovim: open a file or folder in a **new** instance,
@@ -30,7 +30,7 @@ with Windows.
 
 ## Install
 
-Download `OpenInNvim-Setup.exe` from the [releases](https://github.com/StefanBartl/openinnvim/releases)
+Download `OpenInNvim-Setup.exe` from the [releases](https://github.com/WKDSteve/openinnvim/releases)
 and run it: per user, no administrator rights, and it brings its own `uninstall.exe` (also listed under
 *Settings > Apps*). Not code-signed, so SmartScreen may warn; compare the SHA-256 from the release.
 No clone needed. From a clone instead: `install.ps1`, see [docs/installation.md](docs/installation.md).
@@ -67,7 +67,7 @@ each page answers.
 - [Why it does it that way](docs/architecture.md) — one compiled program, RPC over the default pipe, the trust check, and why a path is never command text.
 - [Troubleshooting](docs/troubleshooting.md) — "nothing happens", wrong instance, folder does not open in the tree.
 - [Contributing](docs/CONTRIBUTING.md) — development setup, the build and the test suite.
-- [Feedback](https://github.com/StefanBartl/openinnvim/issues)
+- [Feedback](https://github.com/WKDSteve/openinnvim/issues)
 
 ---
 
