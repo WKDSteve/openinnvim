@@ -4,6 +4,8 @@
 
 # openinnvim
 
+[![wkd](https://img.shields.io/badge/wkd-family-c6ff3d)](https://wkdsteve.github.io/wkd/apps/openinnvim/)
+
 ```
  ██████╗ ██████╗ ███████╗███╗   ██╗██╗███╗   ██╗███╗   ██╗██╗   ██╗██╗███╗   ███╗
 ██╔═══██╗██╔══██╗██╔════╝████╗  ██║██║████╗  ██║████╗  ██║██║   ██║██║████╗ ████║
